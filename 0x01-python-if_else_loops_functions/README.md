@@ -14,3 +14,5 @@
 *11. a ^ b*
 *12. Fizz Buzz*
 *14. Smile in the mirror*
+*15. Remove at position*
+*16. ByteCode -> Python #2*
