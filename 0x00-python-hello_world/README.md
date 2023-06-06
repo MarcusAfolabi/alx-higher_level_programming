@@ -1,4 +1,7 @@
 **00. Python - Hello, World**
 
 
-0. Run Python file
+*0. Run Python file*
+*2. Hello, print*
+*3. Print integer*
+
