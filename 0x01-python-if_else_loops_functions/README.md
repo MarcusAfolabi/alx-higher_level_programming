@@ -13,3 +13,4 @@
 *10. a + b*
 *11. a ^ b*
 *12. Fizz Buzz*
+*14. Smile in the mirror*
