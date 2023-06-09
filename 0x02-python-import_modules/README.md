@@ -30,4 +30,5 @@ $ sudo apt-get install python3
 *3. Infinite addition*
 *4. Who are you?*
 *5. Everything can be imported*
+*6. Build my own calculator!*
 
