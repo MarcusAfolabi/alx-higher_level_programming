@@ -22,3 +22,8 @@ $ sudo apt-get install git
 
 ```
 $ sudo apt-get install python3
+```
+# :Tasks
+*0. Import a simple function from a simple file*
+*1. My first toolbox!*
+
